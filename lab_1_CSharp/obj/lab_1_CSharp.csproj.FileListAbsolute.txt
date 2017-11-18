@@ -1,0 +1,8 @@
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\bin\Debug\lab_1_CSharp.exe
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\bin\Debug\lab_1_CSharp.pdb
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\obj\Debug\ResolveAssemblyReference.cache
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\obj\Debug\lab_1_CSharp.Form1.resources
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\obj\Debug\lab_1_CSharp.Properties.Resources.resources
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\obj\Debug\lab_1_CSharp.csproj.GenerateResource.Cache
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\obj\Debug\lab_1_CSharp.exe
+D:\Курсы\Компьютерная графика\lab_1_CSharp\lab_1_CSharp\obj\Debug\lab_1_CSharp.pdb
